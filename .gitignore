@@ -1,0 +1,5 @@
+.idea/
+.env
+brief_*.md
+__pycache__/
+*.pyc
