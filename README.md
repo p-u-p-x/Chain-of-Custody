@@ -1,6 +1,6 @@
 # Chain of Custody 🔗
 
-![Python](https://img.shields.io/badge/Python-3776AB) ![Backboard](https://img.shields.io/badge/Backboard.io-1A237E) ![AI%20Agents](https://img.shields.io/badge/AI%20Agents-455A64) ![Multi%20Agent](https://img.shields.io/badge/Multi%20Agent-3F51B5) ![MLH](https://img.shields.io/badge/MLH%20GHW-E97627)
+![Python](https://img.shields.io/badge/Python-3776AB) ![Backboard](https://img.shields.io/badge/Backboard.io-1A237E) ![AI%20Agents](https://img.shields.io/badge/AI%20Agents-455A64) ![Multi%20Agent](https://img.shields.io/badge/Multi%20Agent-3F51B5) ![MLH](https://img.shields.io/badge/MLH%20GHW-1A7D3D)
 
 Built for MLH's Global Hack Week: Agents
 
